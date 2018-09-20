@@ -8,5 +8,7 @@ Technologies used in the making of this app:
     * Axios
     * Express
     * Mongoose
+    
+![screenshot 127](https://user-images.githubusercontent.com/38323356/45836243-45847080-bcda-11e8-8f35-8efa251b0e69.png)
 
     
